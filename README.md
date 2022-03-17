@@ -1,0 +1,1 @@
+# Calculate-Textarea-Characters-With-On-Input-Event
